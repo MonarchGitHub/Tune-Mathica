@@ -3,15 +3,15 @@
 
 <div align='center'>
   
-<a href='https://github.com/chroline/well_app/releases'>
+<a href='https://github.com/MonarchGitHub/Tune-Mathica/'>
   
-<img src='https://img.shields.io/github/v/release/chroline/well_app?color=%23FDD835&label=version&style=for-the-badge'>
+<img src='https://img.shields.io/github/v/release/Tune-Mathica/well_app?color=%23FDD835&label=version&style=for-the-badge'>
   
 </a>
   
-<a href='https://github.com/chroline/well_app/blob/main/LICENSE'>
+<a href='https://github.com/Tune-Mathica/well_app/blob/main/LICENSE'>
   
-<img src='https://img.shields.io/github/license/chroline/well_app?style=for-the-badge'>
+<img src='https://img.shields.io/github/license/Tune-Mathica/well_app?style=for-the-badge'>
   
 </a>
   
@@ -25,19 +25,19 @@
   
 ### Quick Links
   
-<a href='https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
+<a href='https://github.com/MonarchGitHub/Tune-Mathica/'>
   
 <img src='https://img.shields.io/badge/HOMEPAGE-gray?style=for-the-badge'>
   
 </a>
   
-<a href='https://projects.colegaw.in/well-app/research?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
+<a href='https://github.com/MonarchGitHub/Tune-Mathica/'>
   
 <img src='https://img.shields.io/badge/RESEARCH-blue?style=for-the-badge'>
   
 </a>
   
-<a href='https://projects.colegaw.in/well-app/case-study?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme'>
+<a href='https://github.com/MonarchGitHub/Tune-Mathica/'>
   
 <img src='https://img.shields.io/badge/CASE STUDY-green?style=for-the-badge'>
   
@@ -55,7 +55,7 @@
 
 ### The Website is live now🥳 🚀
 
-- Web: Visit [https://well-app.netlify.app](https://well-app.netlify.app). Install as a PWA for native-like functionality!
+- Web: Visit [https://well-app.netlify.app](https://github.com/MonarchGitHub/Tune-Mathica/).
 - Android: coming soon 👀
 
 ---
@@ -77,15 +77,15 @@
 
 # 🧐 Project philosophy
 
-> The Well app is a mental health and mindfulness app built on top of the science of positive psychology. The Well app is more than just another meditation or journaling app; it encourages you to enhance and reflect on your day with structured, guided activities.
+> Tune-Mathica turns your Algebraic equations into musical notes. Just enter any equation and see the magic unfold.
 > 
-> There are 5 daily tasks that the Well app asks you to complete each day: record 3 gratitudes, write a journal entry, perform 3 acts of kindness, exercise for 20 minutes, and meditate for 15 minutes.
+> This app is still in development
 
-**Read more about the Well app on [the project homepage](https://projects.colegaw.in/well-app?utm_source=GitHub&utm_medium=readme&utm_campaign=well_app_readme).**
+**Read more about Tune-Mathica app on [the project homepage](https://github.com/MonarchGitHub/Tune-Mathica/).**
 
 # 📒 Wiki
 
-This project repository has [a great wiki](https://github.com/chroline/well_app/wiki) (currently WIP) that you should consider reading! It goes into detail about the project from a more technical aspect. If you are interested in learning more about the app itself, go ahead and check it out!
+This project repository has [a great wiki](https://github.com/chroline/Tune-Mathica/wiki) (currently WIP) that you should consider reading! It goes into detail about the project from a more technical aspect. If you are interested in learning more about the app itself, go ahead and check it out!
 
 # 👨‍💻 Tech stack
 
